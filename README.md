@@ -15,7 +15,7 @@ This project is a Python-based AI application designed to fetch data from the da
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/destatis_db.git
+    git clone https://github.com/Guakocius/ai_data_destatis.git
 
     ```
 
